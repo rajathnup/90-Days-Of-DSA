@@ -50,6 +50,6 @@ DP:  https://www.geeksforgeeks.org/longest-common-substring-dp-29/
 
 
 #
-90 DAYS PLAN(by Nishant)
+<h1>90 DAYS PLAN(by Nishant)</h1>
 (https://github.com/rajathnup/90-day-plan/blob/main/DSA.jpg?raw=true)
 
