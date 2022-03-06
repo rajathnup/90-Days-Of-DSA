@@ -50,5 +50,5 @@ DP:  https://www.geeksforgeeks.org/longest-common-substring-dp-29/
 
 
 
-!90DAYSPLAN(https://github.com/rajathnup/90-Days-Of-DSA/blob/main/DSA.jpg?raw=true)
+90DAYSPLAN(https://github.com/rajathnup/90-days-plan/blob/main/DSA.jpg?raw=true)
 
