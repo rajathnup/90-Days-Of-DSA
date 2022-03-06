@@ -49,6 +49,6 @@ DP:  https://www.geeksforgeeks.org/longest-common-substring-dp-29/
      https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/
 
 
-
-90DAYSPLAN(https://github.com/rajathnup/90-days-plan/blob/main/DSA.jpg?raw=true)
+#90 DAYS PLAN(by Nishant)
+90DAYSPLAN(https://github.com/rajathnup/90-day-plan/blob/main/DSA.jpg?raw=true)
 
