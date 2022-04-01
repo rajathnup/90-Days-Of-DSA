@@ -1,4 +1,4 @@
-Problem link:https://practice.geeksforgeeks.org/problems/quick-left-rotation3806/1#
+//Problem link:https://practice.geeksforgeeks.org/problems/quick-left-rotation3806/1#
 
 class Solution{
 	
